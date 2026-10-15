@@ -1,5 +1,10 @@
 # BellezaSys
 
+> Projeto em grupo da disciplina **Engenharia de Software** (Ciência da Computação, UFOP).
+> Desenvolvido por Pedro Souza ([@pedrosouzag](https://github.com/pedrosouzag)), Matheus Cardoso ([@cardosoAM](https://github.com/cardosoAM)), Pedro Barbosa e David Cristian ([@davidcrp](https://github.com/davidcrp)). O histórico de commits preserva a autoria de cada integrante.
+
+**Stack:** C++17 · Qt Widgets · CMake/Makefile · Ollama (IA local, opcional) · Doxygen
+
 Sistema de automacao de agendamentos para saloes de beleza, com nucleo C++ separado da interface Qt.
 
 ## Estrutura

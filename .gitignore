@@ -12,3 +12,6 @@ bin/
 build2/
 .vscode/
 data/
+
+# Documentação gerada pelo Doxygen
+doc/html/
